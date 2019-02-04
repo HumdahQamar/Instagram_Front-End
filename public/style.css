@@ -1,0 +1,156 @@
+.main-container{
+    background-color: #f6f6f6;
+    left: 0;
+    min-height: 100%;
+    margin-top: -20px;
+}
+.signup{
+    margin-top: 50px;
+}
+.signup-form-panel{
+    background-color: #ffffff;
+    border: 1px solid #d9d9d9;
+}
+.signup-logo{
+    margin-top: 20px;
+    height: 65px;
+}
+.signup-text-under-logo{
+    color: darkgrey;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 15px;
+}
+.signup-field{
+    /*margin-top: 5px;*/
+    width:100%;
+    padding-right: 30px;
+    padding-left: 30px;
+    /*padding-bottom: 0px;*/
+    margin-bottom: -10px;
+}
+.btn-submit{
+    background-color: #3d86f6;
+    border: none;
+    color: white;
+    width:82%;
+}
+.signup-switch{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.get-app-logo{
+    display: inline-block;
+    height: 50px;
+    text-align: center;
+}
+.get-app{
+    padding-left: 65px;
+    padding-right: 65px;
+}
+.signup-btn-switch{
+    padding-left: 0px;
+    margin-top: -3px;
+}
+.email{
+    border: 1px solid #d9d9d9;
+}
+.signup-username{
+    border: 1px solid #d9d9d9;
+}
+.first-name{
+    border: 1px solid #d9d9d9;
+}
+.last-name{
+    border: 1px solid #d9d9d9;
+}
+.signup-password{
+    border: 1px solid #d9d9d9;
+}
+.date-of-birth{
+    border: 1px solid #d9d9d9;
+}
+.phone-main{
+    margin-top: 70px;
+    margin-left: 160px;
+}
+.parent{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.phone-main {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.phone-test {
+  position: absolute;
+  top: 80px;
+  left: 267px;
+}
+.hidden{
+    opacity: 1;
+}
+.login-form-panel{
+    background-color: #ffffff;
+    border: 1px solid #d9d9d9;
+    margin-top: 120px;
+}
+.login-form-panel-two{
+    background-color: #ffffff;
+    border: 1px solid #d9d9d9;
+    margin-top: 0px;
+}
+.forgot-password{
+    color: dodgerblue;
+}
+.login-username{
+    border: 1px solid #d9d9d9;
+}
+.login-password{
+    border: 1px solid #d9d9d9;
+}
+.navbar-main{
+    background-color: #ffffff;
+    border: 1px solid #d9d9d9;
+    height:80px;
+}
+.logo-one{
+    margin-top: 20px;
+    padding-right: 20px;
+}
+.logo-two{
+    margin-top: 17px;
+    padding-left: 15px;
+}
+.vertical-line{
+    border-left: 1px solid black;
+}
+.search-bar{
+    margin-top: 20px;
+}
+.search-form{
+    position:relative;
+    padding:0;
+    margin:0;
+}
+.search-input{
+    background-color: #f6f6f6;
+}
+.search-icon{
+    position:absolute;
+    bottom:8px;
+    right:10px;
+    width:20px;
+}
+.navbar-icon{
+    margin-top: 22px;
+}
+.navbar-icon-right{
+    margin-top: 24px;
+    width: 100px;
+}
+.logout{
+    margin-top: 13px;
+}
